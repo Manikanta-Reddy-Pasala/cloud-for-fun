@@ -1,0 +1,67 @@
+
+
+my understands:
+----------------------------------------------------------
+
+our marketing team goes to customer
+
+expalin product, give demo and support for basic set up
+
+
+
+our product main goal is to have full environament ready customer just has to concentrate on business logic..
+
+
+Customer:
+-----------
+customer will have access to our production environment of soltion designer
+
+
+customer will creates multiple solutions based on need 
+
+for each solution
+    he will link his git hub repo while creaing solution
+
+	he will create API's, service, events, external Api's
+
+	commits and downloads source code in node js
+
+	and adds his businss logic and commits to code
+
+	he also make use of key clock user base and integrate into his solution add his own custom logic to filter
+
+	since he is doing evrything on his local environment he don't have acces to openshift and pipelines so he has to create his own git pipelines to set up developement environment. 
+	when it comes to staging and production he has to take care of his own way to deploy.
+
+	(can we avoid this setp instead if he give access to his openshift enc we can create git pipeline and automate and trigger pipelines on every commit for his dev, qa, staging environament)
+
+	is understanding is correct...
+
+
+	what is customer pre requistes for FSS:
+	----------
+	like hard ware/ software requirements that he shoud poses
+
+
+	how he will create pipelines and trigger pipelines
+
+
+	how we are simplyingfing customer setup problems
+
+	how he will run his applications? as per yesterday node js solution doesn't have any server to run so no npm commands working
+
+	how he will set up dev/qa/prod environmnets
+
+	how release versions upgrades happens since he is using his own clusterting so he has to take care of upgarades manually?
+
+	how service ticketing system works... is customer raises tickets directly in our system
+
+	what in case of production issue at client side do we conect and fix or how it works
+
+
+
+
+
+
+
+
