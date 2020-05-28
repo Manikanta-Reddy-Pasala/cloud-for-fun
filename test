@@ -39,13 +39,11 @@ for each solution
 	----------
 	like hard ware/ software requirements that he shoud poses
 
-
-	how he will create pipelines and trigger pipelines
-
+	which environemnet pipelines connects i meand open shift
 
 	how we are simplyingfing customer setup problems
 
-	how he will run his applications? as per yesterday node js solution doesn't have any server to run so no npm commands working
+	how he will run his applications in local? as per yesterday node js solution doesn't have any server to run so no npm commands working
 
 	how he will set up dev/qa/prod environmnets
 
